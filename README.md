@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kami12354
+- 👀 I’m interested in learning how to Program
+- 🌱 I’m currently learning Python and C++
+- ⚡ Fun fact: Current peak LoL Rank Emerald 4
